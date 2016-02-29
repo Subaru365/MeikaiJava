@@ -9,7 +9,7 @@ public class Car {
 	private double fuel;
 	private Day purchaseDay;
 
-	public Car(String name, int width, int height, int length, double fuel) {
+	public Car(String name, int width, int height, int length, double fuel, Day purchaseDay) {
 		this.name 	= name;
 		this.width 	= width;
 		this.height = height;
