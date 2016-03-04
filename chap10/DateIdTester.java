@@ -1,8 +1,6 @@
 import java.util.GregorianCalendar;;
 import static java.util.GregorianCalendar.*;
 
-import java.sql.Date;
-
 class DateId{
 	private static int counter;
 	private int id;
