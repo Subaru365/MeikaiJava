@@ -1,5 +1,5 @@
 
-public interface Playar {
+public interface Player {
 	void play();
 	void stop();
 }

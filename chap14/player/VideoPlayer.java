@@ -1,5 +1,5 @@
 
-public class VideoPlayer implements Playar {
+public class VideoPlayer implements Player {
 	private int id;
 	private static int count = 0;
 	

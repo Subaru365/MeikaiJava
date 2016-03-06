@@ -1,5 +1,5 @@
 
-public class CDPlayer implements Playar{
+public class CDPlayer implements Player{
 	
 	@Override
 	public void play() {
